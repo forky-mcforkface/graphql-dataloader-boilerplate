@@ -1,3 +1,7 @@
+# Deprecated
+
+Try a better version here https://github.com/entria/entria-fullstack
+
 # GraphQL DataLoader Boilerplate
 
 [![CircleCI](https://circleci.com/gh/entria/graphql-dataloader-boilerplate.svg?style=svg)](https://circleci.com/gh/entria/graphql-dataloader-boilerplate)
